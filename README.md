@@ -61,7 +61,7 @@ Sentiment analysis can only say whether a post is positive, negative or neutral 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khairunmim-dev&show_icons=true&theme=default" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=khairunmim-dev&show_icons=true&theme=default&hide=commits" alt="GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairunmim-dev&layout=compact" alt="Top languages" height="165">
 </p>
 
