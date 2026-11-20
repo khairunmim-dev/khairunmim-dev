@@ -1,3 +1,5 @@
+<p align="center"><img src="banner.jpg" alt="Khairun Nessa Mim" width="100%"></p>
+
 <h1 align="center">Hi 👋, I'm Khairun Nessa Mim</h1>
 <h3 align="center">CSE Student · Aspiring Web Developer · Digital Marketing Intern</h3>
 <p align="center"><i>Curious Mind. Creative Ideas. Continuous Growth.</i></p>
